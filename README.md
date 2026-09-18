@@ -44,9 +44,5 @@ An AI-powered application that generates personalized learning roadmaps based on
 
 🔗 [View Project]([YOUR_ROADMAP_REPOSITORY_URL]([https://github.com/kehkshan-afzal/AI-Learning-Roadmap-Generator](https://github.com/kehkshan-afzal/AI-Learning-Roadmap-Generator)))
 
-## 📊 GitHub Stats
-
-![Kehkshan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kehkshan-afzal\&show_icons=true\&hide_border=true)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kehkshan-afzal\&layout=compact\&hide_border=true)
 
