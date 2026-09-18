@@ -42,7 +42,7 @@ An AI-powered application that generates personalized learning roadmaps based on
 
 **Tech:** Python • Generative AI • Gradio • Google Colab
 
-🔗 [View Project]([YOUR_ROADMAP_REPOSITORY_URL](https://github.com/kehkshan-afzal/AI-Learning-Roadmap-Generator))
+🔗 [View Project]([YOUR_ROADMAP_REPOSITORY_URL]([https://github.com/kehkshan-afzal/AI-Learning-Roadmap-Generator](https://github.com/kehkshan-afzal/AI-Learning-Roadmap-Generator)))
 
 ## 📊 GitHub Stats
 
